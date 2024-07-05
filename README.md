@@ -13,5 +13,10 @@ Inheritance Concept
 ![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/2365403d-c060-45f0-b244-21e30f145ba8)
 ![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/fc4540c2-11dc-4b90-8165-6af303343ee7)
 ![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/1d0d0373-2b4a-4afd-b01b-7c6cb1fb9de1)
+![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/f837dba6-d6d4-4dbf-bd3c-3544b035f57c)
+Metdod Overrindin in polymorphism in java condition
+![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/8fcaa111-cd0a-4714-b77b-fe265dba0c95)
+![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/8cf44ef1-36eb-447d-9a05-3df10160c4c7)
 ![Uploading image.png…]()
+
 
