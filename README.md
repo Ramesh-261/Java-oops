@@ -17,6 +17,8 @@ Inheritance Concept
 Metdod Overrindin in polymorphism in java condition
 ![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/8fcaa111-cd0a-4714-b77b-fe265dba0c95)
 ![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/8cf44ef1-36eb-447d-9a05-3df10160c4c7)
-![Uploading image.png…]()
+![image](https://github.com/Rameshprajapati261/Java-oops/assets/134092313/67ec315e-d858-4eae-ba73-673e075a5c37) 
+![Uploading image.png…]() 
+
 
 
