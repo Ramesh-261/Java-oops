@@ -11,6 +11,6 @@ class test implements I1
     public static void main(String args[])
      {
        test t=new test();
-       t.show();
+       t.show();;
       }
  }
