@@ -15,6 +15,6 @@ class scooter extends abstractclass{
         car c=new car();
         c.start();
         scooter s=new scooter();
-        s.start();
+        s.start()
     }
 }
