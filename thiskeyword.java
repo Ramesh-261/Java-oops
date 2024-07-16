@@ -22,23 +22,45 @@
 //   }
 
 //2. this keyword can be used to invoked current class method(implicitly)
+// class demo
+// {
+//   public void fun()
+//    {
+//      System.out.println("hello");
+//    }
+//   public void disp()
+//    {
+//       this.fun();
+//    }
+// }
+// class thiskeyword
+//   {
+//   public static void main(String args[])
+//    {
+//     demo d=new demo();
+//     d.fun();
+//    // d.disp();
+//     }
+//   }
+
+//3. this keyword used to invoke current class constructor
+
 class demo
 {
-  public void fun()
+   demo()
    {
-     System.out.println("hello");
+     System.out.println("no arg constructor");
    }
-  public void disp()
+  demo(int a)
    {
-      this.fun();
+    this();
+    System.out.println("paramitrazied const");
    }
 }
 class thiskeyword
   {
   public static void main(String args[])
    {
-    demo d=new demo();
-    d.fun();
-   // d.disp();
+    demo d=new demo(12);
     }
   }
