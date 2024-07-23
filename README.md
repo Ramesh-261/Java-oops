@@ -28,6 +28,7 @@ Metdod Overrindin in polymorphism in java condition
 ![image](https://github.com/user-attachments/assets/e5e60299-d2a0-44d1-8e75-9593bb1c4e4c)
 ![image](https://github.com/user-attachments/assets/b94001a3-ed34-4c08-b6b7-2449f88d34d7)
 ![image](https://github.com/user-attachments/assets/9c3d2021-91ff-4d4a-8110-2fafca85db87)
+![image](https://github.com/user-attachments/assets/72d1c82f-db75-4924-a020-71bc9563bf48)
 
 
 
