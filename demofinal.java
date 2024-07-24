@@ -40,6 +40,6 @@ final class demo{
    // public static void main(String args[]){
    //   demofinal df=new demofinal(); //no need it bcoz it shows compile time error
    //   df.fun();
-   // }
+   // }//
  }
   
