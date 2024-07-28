@@ -1,7 +1,7 @@
 //1. 
 // class demo
 // {
-//   int x;
+//   int x;  //instance variable
 //   public void fun(int x)
 //    {
 //      this.x=x;
@@ -45,22 +45,22 @@
 
 //3. this keyword used to invoke current class constructor
 
-class demo
-{
-   demo()
-   {
-     System.out.println("no arg constructor");
-   }
-  demo(int a)
-   {
-    this();
-    System.out.println("paramitrazied const");
-   }
-}
-class thiskeyword
-  {
-  public static void main(String args[])
-   {
-    demo d=new demo(12);
-    }
-  }
+// class demo
+// {
+//    demo()
+//    {
+//      System.out.println("no arg constructor");
+//    }
+//   demo(int a)
+//    {
+//     this();
+//     System.out.println("paramitrazied const");
+//    }
+// }
+// class thiskeyword
+//   {
+//   public static void main(String args[])
+//    {
+//     demo d=new demo(12);
+//     }
+//   }
